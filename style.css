@@ -1,0 +1,13 @@
+*{
+background-color: rgb(153, 153, 221);
+}
+h1{
+    font-family: sevenSegment;
+    font-size: 100PX;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
